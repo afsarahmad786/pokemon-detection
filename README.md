@@ -1,1 +1,6 @@
 # pokemon-detection
+### For dataset plz visit
+
+https://ucad1774035dab8830c6d16ff51b.dl.dropboxusercontent.com/zip_download_get/Afkb_LrPoqjOZgl18fbv01V9OS1wbTG7a7v0JMH1LA3WY39C50Blw7XHSeyKOHoV-A7QduSVMuVzNI6L_muiRWVrGdv4zhZtgdkf4oN90WxxZA?dl=1
+
+https://uc6160e00c4402fa9a2ebd783036.dl.dropboxusercontent.com/zip_download_get/AflbCTaXTUWgVSURovGbOBjm5tKiAIBvTXuv74cOYkq_PtEHeeqJoNYTxJJZHxTUHGDJEaQbXmjRB2xjWT47oxWTbTd5oxJ5tObskw59Esyzlg?dl=1
